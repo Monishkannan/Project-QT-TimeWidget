@@ -1,4 +1,4 @@
-#About_project
+# About_project
 
 its just basic Time widget made from QT creator that show time and date 
 
